@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "Website",
-    "currentPage": "page1.html",
+    "name": "My Website-clone",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -11,10 +11,10 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.7",
     "siteFonts": [],
-    "uniqCompNum": 23,
+    "uniqCompNum": 25,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/twit.jpg",
+    "favicon": "@PROJECT_PATH@/assets/images/website-logo-logo-artboard-10.png",
     "noImageResize": "true"
   },
   "pages": {
