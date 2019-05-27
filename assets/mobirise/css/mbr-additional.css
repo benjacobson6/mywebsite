@@ -1,0 +1,60 @@
+@import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
+#header1-1 H1 {
+  text-align: right;
+}
+#testimonials1-8 .card-block P {
+  text-align: center;
+}
+#testimonials1-8 .card-block {
+  text-align: center;
+}
+#menu-g .navbar-toggler {
+  color: #000;
+}
+#msg-box2-p H2 {
+  text-align: right;
+}
+#msg-box3-s .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-s .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-t .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-t .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-u .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-u .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-v .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-v .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#menu-i .navbar-toggler {
+  color: #000;
+}
+
+#msg-box2-w H2 {
+  text-align: right;
+}
+#msg-box2-y H2 {
+  font-family: 'PT Sans', sans-serif;
+  font-size: 11px;
+}
+#msg-box2-y P {
+  text-align: left;
+}
+#menu-r .navbar-toggler {
+  color: #000;
+}
+#menu-l .navbar-toggler {
+  color: #000;
+}

@@ -1,0 +1,933 @@
+{
+  "settings": {
+    "name": "Website",
+    "currentPage": "page1.html",
+    "theme": {
+      "name": "purity",
+      "title": "PurityM",
+      "styling": {},
+      "additionalSetColors": []
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.9.7",
+    "siteFonts": [],
+    "uniqCompNum": 23,
+    "versionPublish": "4.9.7",
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/twit.jpg",
+    "noImageResize": "true"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "right",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-1555-2000x2148.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff8e0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": 0.5
+          },
+          "title": "<br><br><br>Ben<br>Jacobson",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Download Now</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\">Learn More</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-1",
+          "_styles": {
+            "H1": {
+              "text-align": "right"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitles": true,
+            "showCaptions": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title1": "Blackpool FC Captain<div>2017 - 2018</div>",
+          "caption1": "",
+          "title2": "FA Youth Cup Semi-Finalist<div>2017 - 2018</div>",
+          "caption2": "",
+          "title3": "Lancashire Youth Cup Winner<br>2016 - 2017",
+          "caption3": "",
+          "title4": "Youth Alliance League Winner 2016 - 2017",
+          "caption4": "",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content4",
+          "_anchor": "content4-e"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showName": true,
+            "showBio": true,
+            "count": 3,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "header": "News Articles",
+          "items": [
+            {
+              "authorName": "<a href=\"https://www.blackpoolgazette.co.uk/sport/football/blackpool-fc/stateside-switch-for-ex-blackpool-fc-youngster-ben-1-9182827\" target=\"_blank\">Blackpool Gazette</a><br>",
+              "authorBio": "Matt Scrafton",
+              "text": "<p>The man who captained Blackpool’s U18s side to the semi-finals of the FA Youth Cup has received a once-in-a-lifetime opportunity to play football in the USA.</p>"
+            },
+            {
+              "authorName": "<a href=\"https://savannah.scadathletics.com/news/2018/5/22/mens-soccer-adds-ben-jacobson-to-2018-roster.aspx?path=msoc\" target=\"_blank\">SCAD Athletics</a>",
+              "authorBio": "",
+              "text": "<p>The SCAD men's soccer coaching staff is excited to announce the signing of Ben Jacobson to the 2018 roster.</p>"
+            },
+            {
+              "authorName": "<a href=\"https://www.lfe.org.uk/news/blackpool-u18s-2-2-arsenal-u18s\" target=\"_blank\">LFE</a>",
+              "authorBio": "Nicholas Dusabe",
+              "text": "Ben Jacobson’s second-half equaliser rewarded a spirited display from Blackpool Under-18s as they earned a 2-2 draw against Arsenal Under-18s in the FA Youth Cup semi-final first leg at Bloomfield Road."
+            }
+          ],
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-8",
+          "testimonial": [
+            {
+              "authorName": "<a href=\"https://www.blackpoolgazette.co.uk/sport/football/blackpool-fc/stateside-switch-for-ex-blackpool-fc-youngster-ben-1-9182827\" target=\"_blank\">Blackpool Gazette</a><br>",
+              "authorBio": "Matt Scrafton",
+              "text": "<p>The man who captained Blackpool’s U18s side to the semi-finals of the FA Youth Cup has received a once-in-a-lifetime opportunity to play football in the USA.</p>"
+            },
+            {
+              "authorName": "<a href=\"https://savannah.scadathletics.com/news/2018/5/22/mens-soccer-adds-ben-jacobson-to-2018-roster.aspx?path=msoc\" target=\"_blank\">SCAD Athletics</a>",
+              "authorBio": "",
+              "text": "<p>The SCAD men's soccer coaching staff is excited to announce the signing of Ben Jacobson to the 2018 roster.</p>"
+            },
+            {
+              "authorName": "<a href=\"https://www.lfe.org.uk/news/blackpool-u18s-2-2-arsenal-u18s\" target=\"_blank\">LFE</a>",
+              "authorBio": "Nicholas Dusabe",
+              "text": "Ben Jacobson’s second-half equaliser rewarded a spirited display from Blackpool Under-18s as they earned a 2-2 draw against Arsenal Under-18s in the FA Youth Cup semi-final first leg at Bloomfield Road."
+            }
+          ],
+          "_styles": {
+            ".card-block P": {
+              "text-align": "center"
+            },
+            ".card-block": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/photo-5.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=XEmr4uv-v4c",
+              "aspectratio": "16:9",
+              "autoplay": "on",
+              "loop": "on"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Compilation Video",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-f"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "Follow Me",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-twitter\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/BenJacobson_6\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/benjacobson6\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/benjacobson6\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>    ",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-9"
+        },
+        {
+          "_params": {
+            "token": "438801711.727bfe1.01a0a755011845af8d9e44281628a1e9",
+            "showTitle": true,
+            "layoutGridRadio": false,
+            "imagesPerRowGrid": "8",
+            "rows": 2,
+            "showMoreButton": true,
+            "layoutSliderRadio": true,
+            "imagesPerRowSlider": 4,
+            "spacing": "40",
+            "fullWidth": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColorRadio": true,
+            "bgColor": "#dddddd",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/instagram-feed/instagram-feed-block/assets/instagram-background.jpg",
+            "overlay": false,
+            "overlayColor": "#efefef",
+            "overlayOpacity": 0.6
+          },
+          "title": "Instagram Feed",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"#\">Show more</a>",
+          "display2": "display-2",
+          "display4": "display-4",
+          "alias": "instagram-feed",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "instagram-feed-block",
+          "_anchor": "instagram-feed-block-d"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#26272c",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2019 Ben Jacobson<br><br>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-b"
+        },
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#ffffff",
+            "hamburgerColor": "#000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html\">About Me</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\">Achievements</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page3.html\">Contact &nbsp;Me<br><br></a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/website-logo-logo-artboard-1.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ben Jacobson</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-g",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            }
+          }
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "title": "About Me",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "msg-box1",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Playing Career",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">Try for Free</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-p",
+          "_styles": {
+            "H2": {
+              "text-align": "right"
+            }
+          }
+        },
+        {
+          "_params": {
+            "firstType": "bg-success",
+            "secondType": "bg-warning",
+            "thirdType": "bg-danger",
+            "fourthType": "bg-primary",
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "showButtons": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title1": "Burnley Football Club",
+          "title2": "Blackpool Football Club",
+          "title3": "SCAD Soccer",
+          "title4": "Regional",
+          "currency1": "<br>2008 - 2011<br><br><br>",
+          "currency2": "<br>2011 - 2018<br><br><br>",
+          "currency3": "<br>2018 - Present<br><br><br>",
+          "currency4": "Liverpool Schoolboys (2011, 2013, 2015)<br>Merseyside Schoolboys<br>(2016)<br>",
+          "price1": "",
+          "price2": "",
+          "price3": "",
+          "price4": "",
+          "period1": "",
+          "period2": "",
+          "period3": "",
+          "period4": "",
+          "list1": "<div></div>",
+          "list2": "<div></div>",
+          "list3": "<div></div>",
+          "list4": "<div></div>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">Demo</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">Demo</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">Demo</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">Demo</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-k"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "When Did I Start Playing Soccer?",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>I started playing Soccer at the tender age of 5 Years Old. Soccer is the UKs biggest sport so nearly every young boy is involved with the sport at some point during their childhood. My parents seen a advert in the local newspaper for a nearby team looking for new players. Obviously being that young I can't remember it personally but I am sure it was more my parents decision to join the team rather than mine! In my first league game for the team, I was actually scouted by Liverpool Football Club to attend their 'Development Center' as they didn't actually have a Age Group team as we were only 5 years old. I played for this team for a total of three years before joining Burnley Football Club.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-s"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#dddddd",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "My Time at Burnley Football Club",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>I joined Burnley at only 8 Years Old. This is one of the first age groups that each Professional Club start at. I was scouted at one of my League games for my local team and my parents were approached by a scout afterwards to ask whether i would be interested in going down and training with the team. After my first session I was offered a Six Week Trial, which is a standard trial process at all Professional Clubs. I ended up being a Burnley player for around 3 years before leaving the club.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-t"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "My Time at Blackpool Football Club",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>I joined Blackpool a few months after leaving Burnley. Before joining Blackpool, i did go to Blackburn on a 6 week trial, at the end of that trial i was told that they wanted to sign me but I would have to wait as they had too many players in their squad. I didn't want to be waiting around so i went to Blackpool, on the recommendation of a soccer friend who was already playing for them. I went on a Six Week Trial and was actually offered a contract around Four Weeks into the trial. I then spent 7 years at the club. Coming all the way through their Academy System winning Player Of The Season for Three consecutive years and Player's Player Of The Season for Two consecutive years. At the end of Under 16s, I was awarded a 2-Year Contract which would see me progress to becoming a Full-Time Soccer Player. In my first month of my scholarship, I had managed to play well enough to be in the First Team squad for their Pre-Season game against Tranmere Rovers which entitled me to a £15,000 bonus on top of my £9000 a week contract. Also, in the first year of my contract, i helped the team to winning the North West Youth Alliance League &amp; Lancashire FA Youth Cup. During the second year of my Scholarship, i captained the side to the Semi-Final of the FA Youth Cup, the biggest tournament of Youth Football in England. We beat teams such as West Ham United FC, Southampton FC &amp; Blackburn Rovers FC. We played Arsenal in a Two-Legged Semi-Final where the second leg was played at The Emirates Stadium.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-u"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#dddddd",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Ending up at SCAD",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>The decision to move out to The United States was a big decision to make. The US was always a vacation destination for me every year so I think that proves that i like the country! I always wanted to move to the US hopefully to play Soccer, so when the oppurtunity came up it was one I couldn't turn down. I started the process whilst still playing for Blackpool. As an apprentice in the UK we are supervised by the LFE (League Football Education), it was via these where my links to different colleges across the US began. They got together my CV/Resume and Compilation Video and sent them over to various different colleges agross the United States. Within a week of them going out, I had about 20-25 different colleges contacting me to discuss the chance of going there. At this time, I was going through a busy period at Blackpool, being so far into the FA Youth Cup competition was a big priority not only for myself but for the rest of the squad and club so i didn't get a chance to properly speak to a majority of the colleges who had contacted me. I had to split it down to top contenders and SCAD stood out since the first day. After speaking with the coaches of the Soccer program, I would have been stupid to have turned down what they had offered me! I seen out the rest of my time at Blackpool, were being in the Semi-Final of the FA Youth Cup, was something nobody in the country would ever have expected us to be! Playing against some of the biggest teams in the country and being lucky enough to lead my team out in one of the best and biggest stadiums in the country was something that I will never forget. Once my time at Blackpool had come to an end, I met with the coaching staff from SCAD whilst they where on a trip to the UK. I had already made my decision up before the meeting that i was going to accept the offer of a scholarship. It was at that moment my time as a Bee started.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-v"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#26272c",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2019 Ben Jacobson<br><br>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-h"
+        },
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#ffffff",
+            "hamburgerColor": "#000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html\">About Me</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\">Achievements</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page3.html\">Contact &nbsp;Me<br><br></a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/website-logo-logo-artboard-1.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ben Jacobson</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            }
+          },
+          "_anchor": "menu-i"
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "title": "Achievements",
+        "order": 2
+      },
+      "components": [
+        {
+          "_inherit": "msg-box1",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Career Achievements",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">Try for Free</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-w",
+          "_styles": {
+            "H2": {
+              "text-align": "right"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box1",
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "",
+          "text": "Liverpool Schoolboys Achievements<br><br>2011 - National Champion<br>2011 - Everton Cup Winners<br>2011 - League Winner<br>2013 - National Cup Runner-Up<br>2015 - Player Of The Season<br><br>Blackpool FC Achievements<br><br>2013/2014 - Player Of The Season<br>2013/2014 - Player's Player Of The Season<br>2014/2015 - Player Of The Season<br>2014/2015 - Player's Player Of The Season<br>2015/2016 - Player Of The Season<br>2016/2017 - Under 18 North West Youth Alliance League Champion<br>2016/2017 - Lancashire FA Youth Cup Winner<br>2017/2018 - FA Youth Cup Semi-Finalist<br><br>Other Soccer Achievements<br><br>2016 - Under 19 Everton Shield Champion (Archbishop Beck Catholic Sports College)<br>2016 - Under 16 Merseyside Cup Winners (Archbishop Beck Catholic Sports College)<br><br>Qualifications Off The Pitch<br><br>Level 2 BTEC in Information and Creative Technology (Merit)<br>Sports Leaders UK Level 1 Award in Sports Leadership<br>Spirit of Leadership Awards - Awarded by Everton Football Club<br>Level 3 NVQ in Achieving Excellence in Sports Performance<br>Level 3 BTEC Diploma in Sport (Performance and Excellence) (Distinction* Distinction*)<br>FA Level 2 Soccer Coaching Badge<br>FA Level 2 Soccer Refereeing Badge",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">Try for Free</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-y",
+          "_styles": {
+            "H2": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
+              "font-size": "11px"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#26272c",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2019 Ben Jacobson<br><br>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-q"
+        },
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#ffffff",
+            "hamburgerColor": "#000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html\">About Me</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\">Achievements</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page3.html\">Contact &nbsp;Me<br><br></a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/website-logo-logo-artboard-1.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ben Jacobson</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            }
+          },
+          "_anchor": "menu-r"
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {
+        "title": "Contact Me",
+        "order": 3
+      },
+      "components": [
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#26272c",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2019 Ben Jacobson<br><br>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-k"
+        },
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#ffffff",
+            "hamburgerColor": "#000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html\">About Me</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\">Achievements</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page3.html\">Contact &nbsp;Me<br><br></a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/website-logo-logo-artboard-1.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ben Jacobson</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            }
+          },
+          "_anchor": "menu-l"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Contact Form",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me</a>",
+          "form": {
+            "action": "benjacobson6@icloud.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-m"
+        }
+      ]
+    }
+  }
+}
