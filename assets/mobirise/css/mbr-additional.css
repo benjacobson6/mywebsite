@@ -1,4 +1,6 @@
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic);
 @import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
+
 #header1-1 H1 {
   text-align: right;
 }
@@ -11,6 +13,10 @@
 #menu-g .navbar-toggler {
   color: #000;
 }
+#menu-g .navbar-brand {
+  font-family: 'Playfair Display', sans-serif;
+}
+
 #msg-box2-p H2 {
   text-align: right;
 }
@@ -41,6 +47,10 @@
 #menu-i .navbar-toggler {
   color: #000;
 }
+#menu-i .navbar-brand {
+  font-family: 'Playfair Display', sans-serif;
+}
+
 
 #msg-box2-w H2 {
   text-align: right;
@@ -55,6 +65,13 @@
 #menu-r .navbar-toggler {
   color: #000;
 }
+#menu-r .navbar-brand {
+  font-family: 'Playfair Display', sans-serif;
+}
+
 #menu-l .navbar-toggler {
   color: #000;
+}
+#menu-l .navbar-brand {
+  font-family: 'Playfair Display', sans-serif;
 }
